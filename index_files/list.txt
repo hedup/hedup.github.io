@@ -1,0 +1,29 @@
+2017_1k_EM_lab2.pdf		20170301
+2017_1k_EM_lab3.pdf		20170401
+2017_1k_EM_md.pdf		20170415
+2017_1k_ETP_lab2.pdf		20170315
+2017_1k_ETP_lab3.pdf		20170501
+2017_1k_ETP_lab4.pdf		20170515
+2017_2k_english_prez.pdf	20171013
+2017_2k_kedes_lab1.pdf		20171015
+2017_2k_kedes_lab2.pdf		20171211
+2017_2k_kedes_lab3.pdf		20171229
+2017_2k_merijumi_konsp.pdf	20171002
+2017_2k_pusvad_lab1.pdf		20171025
+2017_2k_pusvad_lab2.pdf		20171028
+2017_2k_pusvad_lab3.pdf		20171220
+2017_2k_pusvad_lab4.pdf		20171221
+2017_2k_pusvad_ref1.pdf		20171031
+2017_2k_pusvad_ref2.pdf		20171124
+2017_2k_signali_lab1.pdf	20180102
+2017_2k_signali_lab2.pdf	20180114
+2017_2k_signali_lab3.pdf	20180115
+2017_2k_signali_lab4.pdf	20180117
+2018_2k_analog_lab1.pdf		20180310
+2018_2k_analog_lab2.pdf		20180406
+2018_2k_analog_lab3.pdf		20180521
+2018_2k_analog_prez.pdf		20180311
+2018_2k_cipari_lab1.pdf		20180606
+2018_2k_cipari_studd.pdf	20180607
+list.txt
+style.css

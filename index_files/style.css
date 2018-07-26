@@ -1,10 +1,12 @@
 @charset "UTF-8";
 
 a {
-	color: #444;
-	font-weight: bold;
+	color: #999;
+	/*font-weight: bold;*/
+	text-decoration: none;
 }
 h1 a {
+	color: #444;
 	display: inline-block;
 	font-weight: inherit;
 	outline: 0;
